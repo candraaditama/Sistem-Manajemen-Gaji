@@ -15,3 +15,4 @@ Koneksi dari PHP ke MySQL sudah menggunakan mysqli
 Username : admin
 Paswword : admin
 
+![Screenshot](screenshot.PNG)
